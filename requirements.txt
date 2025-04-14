@@ -1,0 +1,12 @@
+transformers==4.38.2
+peft==0.8.2
+accelerate==0.27.2
+scikit-learn
+torch
+pandas
+numpy
+langchain
+langchain-community
+spacy
+scispacy
+python-dotenv
