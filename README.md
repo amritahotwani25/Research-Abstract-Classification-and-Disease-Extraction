@@ -1,5 +1,5 @@
 
-# Velsera Research Abstract Classification & Disease Extraction Pipeline
+# Research Abstract Classification & Disease Extraction Pipeline
 
 ## 🧠 Overview
 This pipeline classifies PubMed abstracts into **Cancer** vs **Non-Cancer**, provides confidence scores, and extracts disease mentions + citations using a fine-tuned model and an LLM.
